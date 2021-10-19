@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "source-folder",
+      "default": true
+    }
+  ],
+  "name": "Source",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
